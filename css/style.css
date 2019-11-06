@@ -200,7 +200,7 @@
 
 	.image {
 		border: 0;
-		position: relative;	
+		position: relative;
 	}
 
 		.image.fit {
@@ -209,6 +209,7 @@
 
 			.image.fit img {
 				display: block;
+				width: 100%;
 			}
 
 		.image.feature {
@@ -567,7 +568,7 @@
 
 		.wrapper.style1 {
 			padding: 0em;
-			background: #222222 url(../images/dfbanner.jpg) no-repeat;
+			background: #222222 url(../images/dag_sun.png) no-repeat;
 			background-size: cover;
 		}
 
